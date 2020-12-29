@@ -13,14 +13,14 @@ class Emil(object):
         # 邮件服务器的地址
         self.mail_host = 'smtp.163.com'
         # 邮箱账号
-        self.mail_user = '137XXXX2917@163.com'
+        self.mail_user = '1XXXXXXXXX7@163.com'
         # 邮箱密码
         self.mail_pass = '12345678'
 
         # 发送方地址信息
-        self.sender = '137XXXX2917@163.com'
+        self.sender = '1XXXXXXXXX7@163.com'
         # 接收方地址信息
-        self.receivers = ['135XXX8273@163.com']
+        self.receivers = ['1XXXXXXXX3@163.com']
     def xie(self):
         # 邮件主题
         self.subject ='2019.8.5日报'
@@ -92,14 +92,14 @@ mail_port = 465
         # 邮件服务器的地址
 mail_host = 'smtp.163.com'
         # 邮箱账号
-mail_user = '137XXX2917@163.com'
+mail_user = '1XXXXXXX7@163.com'
         # 邮箱密码
 mail_pass = '121234567834'
 
         # 发送方地址信息
-sender = '1375XXX917@163.com'
+sender = '1XXXXXXXXX7@163.com'
         # 接收方地址信息
-receivers = ['135XXX8273@163.com']
+receivers = ['1XXXXXXXX3@163.com']
 
         # 邮件主题
 subject ='2019.8.5日报'
